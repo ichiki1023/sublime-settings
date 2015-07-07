@@ -1,0 +1,13 @@
+{
+	"build_env":
+	{
+		"PATH": "/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
+	},
+	"color_scheme": "Packages/Theme - Piatto/Piatto Light.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Piatto Light 3.sublime-theme"
+}
